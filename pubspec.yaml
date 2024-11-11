@@ -3,6 +3,7 @@ description: A simple implementation of an animated loading button widget for Fl
 version: 2.1.1
 homepage: https://github.com/chrisedg87/flutter_rounded_loading_button
 
+
 environment:
   sdk: '>=2.15.0 <4.0.0'
 
